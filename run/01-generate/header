@@ -1,0 +1,11 @@
+OUTPUT H2O.train
+
+TYPES
+2
+O   <Atomic_Energy_O> ! eV
+H   <Atomic_Energy_H> ! eV
+
+SETUPS
+O   O.fingerprint.stp
+H   H.fingerprint.stp
+
