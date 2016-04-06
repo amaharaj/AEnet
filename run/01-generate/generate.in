@@ -2,8 +2,8 @@ OUTPUT H2O.train
 
 TYPES
 2
-O
-H
+O  -432.3788   ! eV
+H  -12.4884    ! eV
 
 SETUPS
 O   O.fingerprint.stp
