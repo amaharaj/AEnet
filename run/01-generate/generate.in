@@ -1,3 +1,7 @@
+! input file to transform coordinates to invariant geometry 
+! requires fingerprint setup files
+! requires xsf files in proper folder
+
 OUTPUT H2O.train
 
 TYPES
