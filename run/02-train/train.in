@@ -1,3 +1,6 @@
+! input file for train.x
+! requires *.train file from output made by generate.x
+
 TRAININGSET H20.train
 TESTPERCENT 10
 ITERATIONS  200
