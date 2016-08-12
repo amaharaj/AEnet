@@ -1,5 +1,9 @@
 import numpy as np
 
+# converts xml file to xsf file
+# currently requires number_of_atoms and basis_vectors written as  
+# they would be in an xsf file
+
 with open('number_of_atoms','r') as f:
    first_line=f.readline()
 
